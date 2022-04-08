@@ -1,0 +1,11 @@
+/uploads
+/main
+/*.exe
+*.log
+/go-demo-*
+/synk*
+node_modules
+/build
+*.syso
+dist
+/frontend
